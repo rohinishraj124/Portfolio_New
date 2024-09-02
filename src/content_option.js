@@ -88,7 +88,7 @@ const contactConfig = {
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_yiggfdj",
     YOUR_TEMPLATE_ID: "template_3fj8ygc",
-    YOUR_USER_ID: "rohinishraj",
+    YOUR_USER_ID: "S1GvCtwZ-EFmRDfxX",
 };
 
 const socialprofils = {
