@@ -12,7 +12,7 @@ const introdata = {
         third: "I wanna be a web developer",
     },
     description: "I’m Rohinish Raj, an Electronics and Communication Engineering student at IIT Bhubaneswar with a passion for full-stack development. Explore my projects and achievements as I pursue my goal of becoming a versatile developer.",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: "https://wallpapers.com/images/hd/anonymous-man-in-pitch-black-background-ucw1ebq2z8s5gwk2.jpg",
 };
 
 const dataabout = {
