@@ -1,3 +1,4 @@
+import profile from "./profile.png";
 const logotext = "RR";
 const meta = {
     title: "Rohinish Raj",
@@ -8,11 +9,11 @@ const introdata = {
     title: "I’m Rohinish Raj",
     animated: {
         first: "I love coding",
-        second: "I code cool websites",
-        third: "I wanna be a web developer",
+        second: "I am a web developer",
+        third: "I am a coder",
     },
     description: "I’m Rohinish Raj, an Electronics and Communication Engineering student at IIT Bhubaneswar with a passion for full-stack development. Explore my projects and achievements as I pursue my goal of becoming a versatile developer.",
-    your_img_url: "https://wallpapers.com/images/hd/anonymous-man-in-pitch-black-background-ucw1ebq2z8s5gwk2.jpg",
+    your_img_url: profile,
 };
 
 const dataabout = {

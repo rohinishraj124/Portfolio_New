@@ -5,6 +5,7 @@
 .table td,
 .table th {
     color: var(--text-color);
+    background-color: var(--secondary);
 }
 
 .t_border {
@@ -79,6 +80,7 @@
         -webkit-transform: translate3d(0, 100%, 0);
         transform: translate3d(0, 100%, 0);
     }
+
     to {
         opacity: 1;
         -webkit-transform: translateZ(0);
@@ -92,6 +94,7 @@
         -webkit-transform: translate3d(0, 100%, 0);
         transform: translate3d(0, 100%, 0);
     }
+
     to {
         opacity: 1;
         -webkit-transform: translateZ(0);
