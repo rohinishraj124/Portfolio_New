@@ -25,8 +25,9 @@ export const Portfolio = () => {
               <div key={i} className="po_item">
                 <img src={data.img} alt="" />
                 <div className="content">
+                  <h1>{data.title}</h1>
                   <p>{data.description}</p>
-                  <a href={data.link}>view project</a>
+                  <a href={data.link} target="_blank">view project</a>
                 </div>
               </div>
             );

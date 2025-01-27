@@ -18,7 +18,7 @@ const introdata = {
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "My name is Rohinish Raj from Siwan, Bihar. Currently, I am a 1st-year student at Indian Institute of Technology, Bhubaneshwar. I have done my 10th and 12th from Mahaviri Saraswati Vidya Mandir. Right now, I'm learning how to build websites using HTML, CSS, and JavaScript. I find it super cool how you can create awesome stuff on the internet with these tools. My hobbies are playing Basketball, sleeping, and watching movies. My goal is to learn more about making different parts of websites and eventually become really good at it. I'm excited about becoming a skilled web developer and working on all sorts of interesting web projects.",
+    aboutme: "My name is Rohinish Raj from Siwan, Bihar. Currently, I am a 2nd-year student at Indian Institute of Technology, Bhubaneshwar. I have done my 10th and 12th from Mahaviri Saraswati Vidya Mandir. Right now, I'm learning how to build websites using HTML, CSS, and JavaScript. I find it super cool how you can create awesome stuff on the internet with these tools. My hobbies are playing Basketball, sleeping, and watching movies. My goal is to learn more about making different parts of websites and eventually become really good at it. I'm excited about becoming a skilled web developer and working on all sorts of interesting web projects.",
 };
 const worktimeline = [{
     jobtitle: "10th",
@@ -74,10 +74,23 @@ const services = [{
 ];
 
 const dataportfolio = [{
+    title : "Weather App",
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgSVMLJAybwkPi2a8EjrNSjQySErCvnOH1Kg&s",
     description: "Stay ahead of the storm with real-time weather updates.",
     link: "https://rohinishraj124.github.io/Weather/",
 },
+{
+    title : "Snap Shop",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGWzYmjmpcjNuLtyrxcCdOsRjLRhbEMpbG_g&s",
+    description: "Your one-stop online shop for amazing deals and unique finds.",
+    link: "https://snap-shop-beta.vercel.app/"
+},
+{
+    title : "Camp Connect",
+    img: "https://imgs.search.brave.com/6wVZP3JOX2UfdS_ptGjibDMm5v5eZL58G9cjKBupoUs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9jYW1waW5nLW1v/dW50YWluc18xMDI5/NjIyLTI0NzA0Lmpw/Zz9zaXplPTYyNiZl/eHQ9anBn",
+    description: "Jump right in and explore our many campgrounds.",
+    link: "https://camp-connect.onrender.com/"
+}
 ];
 
 const contactConfig = {
