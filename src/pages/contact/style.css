@@ -7,15 +7,42 @@
     border: 1px solid var(--secondary-color);
 }
 
+/* Input spacing and height */
 .contact__form input.form-control {
     margin-bottom: 2em;
     height: calc(2.5em + .75rem + 2px);
 }
 
+/* Placeholder color styling (cross-browser) */
+.contact__form .form-control::-webkit-input-placeholder {
+    color: var(--text-color);
+    opacity: 0.7;
+}
+.contact__form .form-control:-ms-input-placeholder {
+    color: var(--text-color);
+    opacity: 0.7;
+}
+.contact__form .form-control::-ms-input-placeholder {
+    color: var(--text-color);
+    opacity: 0.7;
+}
+.contact__form .form-control::placeholder {
+    color: var(--text-color);
+    opacity: 0.7;
+}
+
+/* Optional: fade placeholder on focus */
+.contact__form .form-control:focus::placeholder {
+    opacity: 0.3;
+    transition: opacity 0.3s ease;
+}
+
+/* Button hover styling */
 button.btn.ac_btn:hover {
     color: var(--secondary-color);
 }
 
+/* Loading bar animation */
 .loading-bar {
     position: fixed;
     top: 0;

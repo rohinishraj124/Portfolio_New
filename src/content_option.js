@@ -89,7 +89,19 @@ const dataportfolio = [{
     title : "Camp Connect",
     img: "https://imgs.search.brave.com/6wVZP3JOX2UfdS_ptGjibDMm5v5eZL58G9cjKBupoUs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9jYW1waW5nLW1v/dW50YWluc18xMDI5/NjIyLTI0NzA0Lmpw/Zz9zaXplPTYyNiZl/eHQ9anBn",
     description: "Jump right in and explore our many campgrounds.",
-    link: "https://camp-connect.onrender.com/"
+    link: "https://campconnect-0wzy.onrender.com"
+},
+{
+    title : "Chatly",
+    img: "https://i.pinimg.com/1200x/b0/9d/95/b09d95ce124e5c1a145b8aad22611a6d.jpg",
+    description: "Connect instantly, chat seamlessly — your conversations, redefined.",
+    link: "https://chatly-9uoe.onrender.com"
+},
+{
+    title : "Connecto",
+    img: "https://static.vecteezy.com/system/resources/previews/004/725/602/non_2x/online-group-discussion-concept-with-people-icon-and-smartphone-messaging-forum-communication-free-vector.jpg",
+    description: "“Where ideas meet, grow, and inspire discussion",
+    link: "https://connecto-five.vercel.app/"
 }
 ];
 
